@@ -1,16 +1,33 @@
-# socket_trading
+# Coin Pro Application
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The application relied on the technology of the Socket where I used the API of the Hollaex to display the real-time coming data and also used the Dio technology to get real Coinranking rapid API from the server to get the most current coin prices and many other data.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="left">
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://conso.market/bitrix/templates/dresscodeV2/images/download.png" />
+</a>  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+## Screenshots
+<img src="https://user-images.githubusercontent.com/102592952/190419351-969b7bf3-0159-47fb-99ca-184fef522e19.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
+
+<img src="https://user-images.githubusercontent.com/102592952/190419497-648a2cf4-4d04-449d-a952-fc82a992615f.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
+    
+    
+    <img src="https://user-images.githubusercontent.com/102592952/190419636-98f1c553-8682-49e6-99a0-29722cc80aed.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
+    <img src="https://user-images.githubusercontent.com/102592952/190419674-a7e9d767-4cfe-4642-a1c6-45414c6d3f1e.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
+
+
