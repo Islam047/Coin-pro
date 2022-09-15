@@ -22,12 +22,10 @@ width="200"
 width="200"
     hspace="10" vspace="10">
     
+  
+<img src="https://user-images.githubusercontent.com/102592952/190419674-a7e9d767-4cfe-4642-a1c6-45414c6d3f1e.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
     
-    <img src="https://user-images.githubusercontent.com/102592952/190419636-98f1c553-8682-49e6-99a0-29722cc80aed.jpg" align="left"
-width="200"
-    hspace="10" vspace="10">
-    <img src="https://user-images.githubusercontent.com/102592952/190419674-a7e9d767-4cfe-4642-a1c6-45414c6d3f1e.jpg" align="left"
-width="200"
-    hspace="10" vspace="10">
 
 
