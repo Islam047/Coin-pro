@@ -5,12 +5,9 @@
 The application relied on the technology of the Socket where I used the API of the Hollaex to display the real-time coming data and also used the Dio technology to get real Coinranking rapid API from the server to get the most current coin prices and many other data.
 
 
-<p align="left">
-    <img alt="Get it on Google Play"z
-        height="80"
-        src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" />
-</a>  
 
+</a>  
+<a href="https://twitter.com/islam_shamurov" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="30" width="40" /></a>
   
 
 ## Screenshots
