@@ -6,9 +6,9 @@ The application relied on the technology of the Socket where I used the API of t
 
 
 <p align="left">
-    <img alt="Get it on Google Play"
+    <img alt="Get it on Google Play"z
         height="80"
-        src="https://github.com/Islam047/Coin-pro/blob/main/app-release.ap" />
+        src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" />
 </a>  
 
   
