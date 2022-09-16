@@ -7,7 +7,7 @@ The application relied on the technology of the Socket where I used the API of t
 
 
 </a>  
-<a href="https://twitter.com/islam_shamurov" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="30" width="40" /></a>
+<a href="https://github.com/Islam047/Coin-pro/blob/main/app-release.apk" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="100" width="100" /></a>
   
 
 ## Screenshots
